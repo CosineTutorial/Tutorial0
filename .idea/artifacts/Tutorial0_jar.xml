@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" build-on-make="true" name="Tutorial0:jar">
+    <output-path>D:/서버/1.20.1 - 강좌/plugins</output-path>
+    <root id="archive" name="Tutorial0.jar">
+      <element id="module-output" name="Tutorial0" />
+    </root>
+  </artifact>
+</component>
